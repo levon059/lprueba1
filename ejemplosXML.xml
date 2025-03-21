@@ -1,0 +1,27 @@
+DTD
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etiqueta_raiz [especificaciones]>
+    <etiqueta_raiz>
+        info...
+    </etiqueta_raiz>
+
+
+especificaciones
+<!ELEMENT etiqueta TIPO>
+
+       { EMPTY
+TIPO:  { (#PCDATA)
+       { Otro elemento
+       { ANY
+
+<!DOCTYPE nodos[
+<!ELEMENT nodo(a, b)>
+<!ELEMENT a EMPTY>
+<!ELEMENT b (#PCDATA)>
+]>
+<nodos>
+    <nodo>
+        <a></a>
+        <b>Hola</b>
+    </nodo>
+</nodos>

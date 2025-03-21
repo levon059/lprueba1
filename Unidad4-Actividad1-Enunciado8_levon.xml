@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hechos_historicos>
+    <Descripcion_de_cada_hecho>
+        <nombre>Descubrimiento de america<nombre>
+        <fecha>
+            <Dia>12<Dia>
+            <Mes>10<Mes>
+            <Año>1492<Año>
+        </fecha>
+    </Descripcion_de_cada_hecho>
+    <Descripcion_de_cada_hecho>
+        <nombre>IBM da a conocer el PC<nombre>
+        <fecha>
+            <Dia>12<Dia>
+            <Mes>8<Mes>
+            <Año>1981<Año>
+        </fecha>
+    </Descripcion_de_cada_hecho>
+        <Descripcion_de_cada_hecho>
+        <nombre>Toma de la Bastilla<nombre>
+        <fecha>
+            <Dia>14<Dia>
+            <Mes>7<Mes>
+            <Año>1789<Año>
+        </fecha>
+    </Descripcion_de_cada_hecho>
+        <Descripcion_de_cada_hecho>
+        <nombre>Se funda google<nombre>
+        <fecha>
+            <Dia>4<Dia>
+            <Mes>9<Mes>
+            <Año>1998<Año>
+        </fecha>
+    </Descripcion_de_cada_hecho>
+        </Descripcion_de_cada_hecho>
+        <Descripcion_de_cada_hecho>
+        <nombre>Primer hombre en pisar la luna<nombre>
+        <fecha>
+            <Dia>20<Dia>
+            <Mes>7<Mes>
+            <Año>1969<Año>
+        </fecha>
+    </Descripcion_de_cada_hecho>
+        </Descripcion_de_cada_hecho>
+        <Descripcion_de_cada_hecho>
+        <nombre>Se funda Facebook<nombre>
+        <fecha>
+            <Dia>4<Dia>
+            <Mes>2<Mes>
+            <Año>204<Año>
+        </fecha>
+    </Descripcion_de_cada_hecho>
+</hechos_historicos>
